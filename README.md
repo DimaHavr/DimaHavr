@@ -1,9 +1,9 @@
-<div align="center" font-size='50px'>
+<div align="center">
 Hello, World!!!
 </div>  
   
 
-### <div align="center">I'm Dima, a full-time front-end freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Dima, a front-end developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🌱 I’m currently learning React and Node.js😺  

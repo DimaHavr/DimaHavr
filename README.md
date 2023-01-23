@@ -2,6 +2,7 @@
 Hello, World!!!
 </div>  
   
+![Alt Text]([url-of-gif](https://1.bp.blogspot.com/-IJb2Pl8yBsM/YEaK2N8Ur2I/AAAAAAAA5EQ/PmWjHPHzyDI-pJjEs6Z-a_rA87EMYFnHwCLcBGAsYHQ/s0/Flag_of_Ukraine.gif))
 
 ### <div align="center">I'm Dima, a front-end developer 👨‍💻 study remotely since 2022</div>  
   

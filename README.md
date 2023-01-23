@@ -1,8 +1,6 @@
 <div align="center">
 Hello, World!!!
 </div>  
-  
-![Alt Text](https://media.tenor.com/Ml5q-zb4QAwAAAAC/ukraine-flag.gif))
 
 ### <div align="center">I'm Dima, a front-end developer 👨‍💻 study remotely since 2022</div>  
   

@@ -10,7 +10,8 @@ Hello, World!!!
   
 
 <br/>  
-
+My projects:
+<a href='https://github.com/DimaHavr/wise-weather' >Wise Weather</a>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">

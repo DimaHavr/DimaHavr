@@ -14,7 +14,7 @@ My projects:
 
 <a href='https://github.com/DimaHavr/wise-weather' >Wise Weather</a>
 
-<a href='https://dimahavr.github.io/goit-react-hw-08-phonebook/'>PhoneBook</a>
+<a href='https://github.com/DimaHavr/goit-react-hw-08-phonebook'>PhoneBook</a>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">

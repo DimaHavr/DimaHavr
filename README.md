@@ -16,6 +16,8 @@ My projects:
 
 <a href='https://github.com/DimaHavr/goit-react-hw-08-phonebook'>PhoneBook</a>
 
+<a href='https://github.com/DimaHavr/cinema-scope'>CinemaScope</a>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 

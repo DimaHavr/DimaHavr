@@ -11,6 +11,7 @@ Hello, World!!!
 <br/>  
 My projects:
 <br/>  
+<a href='https://github.com/DimaHavr/my-shop' >My-shop</a>
 
 <a href='https://github.com/DimaHavr/wise-weather' >Wise Weather</a>
 

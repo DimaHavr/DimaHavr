@@ -12,7 +12,7 @@ Hello, World!!!
 My projects:
 <br/>  
 <a href='https://github.com/DimaHavr/my-shop' >My-shop</a>
-
+<br/>  
 
 <a href='https://github.com/DimaHavr/wise-weather' >Wise Weather</a>
 

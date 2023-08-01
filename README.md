@@ -3,22 +3,6 @@ Hello, World!!!
 </div>  
 
 ### <div align="center">I'm Dima, a front-end developer 👨‍💻 study remotely since 2022</div>  
-  
-
-- 🌱 I’m currently learning React and Node.js😺  
-  
-
-<br/>  
-My projects:
-<br/>  
-<a href='https://github.com/DimaHavr/my-shop' >My-shop</a>
-<br/>  
-
-<a href='https://github.com/DimaHavr/wise-weather' >Wise Weather</a>
-
-<a href='https://github.com/DimaHavr/goit-react-hw-08-phonebook'>PhoneBook</a>
-
-<a href='https://github.com/DimaHavr/cinema-scope'>CinemaScope</a>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">

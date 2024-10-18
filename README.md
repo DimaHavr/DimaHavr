@@ -1,9 +1,3 @@
-<div align="center">
-Hello, World!!!
-</div>  
-
-### <div align="center">I'm Dima, a front-end developer 👨‍💻 study remotely since 2022</div>  
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
